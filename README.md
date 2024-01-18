@@ -16,7 +16,7 @@ First, I would like to add the data set used in this project here.
 
 <h5>Drive Links</h5>
    You can access the data set to which I applied the changes <a href="https://drive.google.com/drive/folders/1eUjSSjrQXpmCZ0UWqO70x1aOzzfXbvya?usp=sharing" style="color: black; text-decoration: underline;text-decoration-style: dotted;">here</a>.
-   You can access the model I created <a href="https://drive.google.com/drive/folders/1eUjSSjrQXpmCZ0UWqO70x1aOzzfXbvya?usp=sharing" style="color: black; text-decoration: underline;text-decoration-style: dotted;">here</a>.
+   You can access the model I created <a href="https://drive.google.com/drive/folders/18G8E5PGQmD2qZqXZsEFoer-jFZdESqqz?usp=sharing" style="color: black; text-decoration: underline;text-decoration-style: dotted;">here</a>.
 
    I added the relevant codes to this repository. Since the work here was done with Google Colab, the relevant import operations and read operations were written accordingly. You can easily make changes according to your work. I wish everyone good luck.
 
