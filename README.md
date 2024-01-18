@@ -6,8 +6,8 @@
 First, I would like to add the data set used in this project here.
 
 <h6>Data Set</h6>
-   <a href="https://www.josiahwang.com/dataset/leedsbutterfly/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">here</a>.
-   <a href="https://www.kaggle.com/datasets/veeralakrishna/butterfly-dataset" style="color: black; text-decoration: underline;text-decoration-style: dotted;">here</a>.
+   You can access the original data set to which I used <a href="https://www.josiahwang.com/dataset/leedsbutterfly/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">here</a>.
+   You can access the original data set to which I used <a href="https://www.kaggle.com/datasets/veeralakrishna/butterfly-dataset" style="color: black; text-decoration: underline;text-decoration-style: dotted;">here</a>.
 
 <h6>About The Data Set File System</h6>
    This data set consists of 10 classes and 832 images. There are descriptions, images, and segmentations folders in the data set. All images are under the images folder. In the Segmentations folder, patterns of butterfly images were used. I did not use segmentation in this project, but it can be used to increase the accuracy value.
